@@ -1,3 +1,4 @@
 public a {
     hello
+    aa
 }
